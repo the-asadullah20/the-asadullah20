@@ -97,22 +97,19 @@ Location ........... Lahore, Pakistan
 **Databases**
 
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase)
-![Neo4j](https://img.shields.io/badge/-Neo4j-38BDF8?style=flat-square&logo=neo4j&logoColor=white)
+<img src="https://img.shields.io/badge/-%20-38BDF8?style=for-the-badge&logo=neo4j&logoColor=white" height="48" alt="Neo4j" />
 
 **AI / ML**
 
 ![AI/ML](https://skillicons.dev/icons?i=python,pytorch)
-![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-38BDF8?style=flat-square&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-38BDF8?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-38BDF8?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-38BDF8?style=flat-square&logo=langchain&logoColor=white)
+<img src="https://img.shields.io/badge/-%20-38BDF8?style=for-the-badge&logo=langchain&logoColor=white" height="48" alt="LangChain" />
 
 **Tools**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,visualstudio,idea)
-![Jira](https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=jira&logoColor=0052CC)
-![Docker](https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8)
+<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=jira&logoColor=0052CC" height="48" alt="Jira" />
+<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=docker&logoColor=2496ED" height="48" alt="Docker" />
+<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8" height="48" alt="Kubernetes" />
 
 ---
 

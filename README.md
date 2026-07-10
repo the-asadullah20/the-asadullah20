@@ -97,19 +97,14 @@ Location ........... Lahore, Pakistan
 **Databases**
 
 ![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase)
-<img src="https://img.shields.io/badge/-%20-38BDF8?style=for-the-badge&logo=neo4j&logoColor=white" height="48" alt="Neo4j" />
 
 **AI / ML**
 
 ![AI/ML](https://skillicons.dev/icons?i=python,pytorch)
-<img src="https://img.shields.io/badge/-%20-38BDF8?style=for-the-badge&logo=langchain&logoColor=white" height="48" alt="LangChain" />
 
 **Tools**
 
 ![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,visualstudio,idea)
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=jira&logoColor=0052CC" height="48" alt="Jira" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=docker&logoColor=2496ED" height="48" alt="Docker" />
-<img src="https://img.shields.io/badge/-%20-0D1B2A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8" height="48" alt="Kubernetes" />
 
 ---
 

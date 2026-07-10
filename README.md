@@ -1,11 +1,16 @@
-<h1 align="center">Hi there, I'm Asadullah Ahmad 👋</h1>
-<h3 align="center">ICPC 2026 Silver Medalist | AI/ML Engineer | Full-Stack Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF6A00,100:000000&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=FFB380" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist+%F0%9F%8F%85;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
+</p>
 
 <table>
 <tr>
-<td width="45%">
+<td width="45%" valign="top">
 
-```
+<pre>
 ⣟⣯⢧⢯⢿⣝⣧⣟⢿⡽⡽⡇⢂⠢⠨⢐⢸⡽⣱⢫⢺⡽⣽⡧⡱⡑⡟⡌⡺⣟⢽⣿⣳⣿⣳⣳⢗⣕⢕⣗⢸⢆⠱⡘⠶⡑⢌⠢⡑⡕⡘⢜⠸⡘⡎⢆⢷⣼⣸⣐⢷⣜⡔⢕⢝⠸⡕⢕⢜⠜⡜⡔⣕⢜⢜⢜⡾⡜⠮⣞⢮⢢⢱⢘⠔⣷⣱⣕⢗⣷
 ⣟⢾⢽⣻⢯⢟⢗⣿⡽⣞⡯⡇⠂⢌⠨⢐⠏⡜⢎⢪⡃⢏⢗⢏⢆⢝⠕⡌⡊⡷⡉⣻⣾⣻⣞⢾⣝⣷⡱⣇⠢⡃⢕⠨⡊⠜⢌⢊⠢⠪⡘⡌⡪⠢⡑⡅⡻⡱⡻⣯⣿⣳⢍⢆⢣⠣⡱⠱⡸⡘⡜⡌⡎⣮⡪⡣⢯⡺⣵⡌⢽⢕⢸⢨⣺⣻⡼⣪⢿⢯
 ⡕⡜⡶⡖⣗⠇⢕⣯⢯⣗⢿⠄⡑⢐⠈⠜⡈⠪⢨⢪⠂⢕⠔⡑⡌⢆⠣⡊⡢⠹⣰⣽⣿⢾⣻⢿⣺⣺⣽⡢⡨⢂⠅⡪⢐⢑⢑⢌⠪⡑⢌⠆⢎⠪⡢⢱⠨⡢⠪⡛⡜⢕⢌⢆⢕⠜⡌⢎⢆⢣⢱⢱⢱⠪⡪⢅⢇⡾⡳⡯⣧⣻⢨⢪⣺⣽⣝⣿⡝⡿
@@ -57,12 +62,12 @@
 ⢈⣿⢽⣻⡩⠱⡝⢿⣯⢯⣯⣨⣳⢱⣣⡯⡷⡳⣇⣺⣺⡻⡻⡯⠓⣐⢋⢊⠊⢅⢀⠱⠶⣲⡶⡉⠭⡅⡺⡏⡮⡣⡣⣳⡹⡽⣿⣽⣾⣿⣿⣿⣿⣿⣿⣿⣷⡯⡷⣟⣿⣻⣾⡿⣿⣟⣿⣻⣽⣾⣟⣿⢯⣿⡽⣗⡷⡨⡑⡨⢈⢂⢔⢄⢕⠱⣝⣜⢮⢎
 ⢪⡺⣯⢷⣿⡪⣞⢿⣿⣽⣟⣾⡽⣵⡽⡏⠰⣽⡷⣵⣳⢵⢞⣐⢿⡽⡟⠀⢠⣝⣒⢪⣳⣤⡁⢽⣪⡂⣿⣪⢏⢎⢮⢲⢕⢧⢻⣿⣻⣿⣻⣿⣽⣿⣷⣿⣿⣯⣟⣿⣽⣯⣷⣿⣿⣻⣟⣿⣽⣾⣻⣽⣿⣺⣟⣯⡯⣟⢆⡡⠣⣓⠆⠢⣂⢳⢁⠕⢏⠓
 ⣭⣝⣝⢟⡛⡚⠮⠃⢮⣿⡺⣯⡟⣕⣗⢇⣺⣪⡯⣟⣽⢯⣪⣿⡬⣏⢂⢠⣿⠞⣽⣄⢪⠳⣱⣲⢯⣧⡳⡯⡪⡪⡪⡎⡞⡜⡎⣯⣿⢿⡿⣿⣟⣿⣿⣟⣿⣽⣯⣿⢾⣿⣽⣿⣽⣿⣻⣯⣷⢿⣽⣟⣾⡳⣯⡿⣽⢽⠢⠑⠑⠄⠋⠪⠠⠈⠰⠩⠂⠌
-```
+</pre>
 
 </td>
 <td width="55%" valign="top">
 
-```yaml
+<pre>
 asadullah@github
 -------------------------------------
 OS ................ Windows 11 / Linux
@@ -88,7 +93,7 @@ Experience ......... AI/ML Intern @ NetSol Technologies
 -------------------------------------
 Email .............. asadullahhmad5@gmail.com
 Location ........... Lahore, Pakistan
-```
+</pre>
 
 </td>
 </tr>
@@ -223,13 +228,13 @@ open_to:
 
 ### 📊 GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=the-asadullah20&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=0D0D0D&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFB380" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&hide_border=true&bg_color=0D0D0D&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00" alt="Activity Graph" width="100%"/>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&text_color=FFFFFF" width="48%" />
 </p>
 
 ---
@@ -240,3 +245,7 @@ open_to:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/the-asadullah20)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adenosinetriphosphate)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asadullahhmad5@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF6A00,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+</p>

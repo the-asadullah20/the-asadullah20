@@ -170,11 +170,11 @@ Browser-based ISA simulator with custom IDE, assembler, instruction execution en
 
 <img src="https://streak-stats.demolab.com?user=the-asadullah20&theme=dark&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username==the-asadullah20&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username==the-asadullah20&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username==the-asadullah20&layout=donut&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -183,5 +183,5 @@ Browser-based ISA simulator with custom IDE, assembler, instruction execution en
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadullah-ahmad5)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/the-asadullah20)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adenosinetriphophate)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adenosinetriphosphate)
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asadullahhmad5@gmail.com)

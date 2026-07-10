@@ -166,6 +166,35 @@ Browser-based ISA simulator with custom IDE, assembler, instruction execution en
 
 ---
 
+### 🌱 Currently
+
+```yaml
+building:
+  - "Lumio — AI-powered learning platform (Next.js / FastAPI / MongoDB)"
+  - "BaatKaro — Multimodal AI assistant (LangChain / RAG / GCP)"
+
+learning:
+  - "Advanced LangGraph agentic pipeline architecture"
+  - "Kubernetes orchestration and production deployment patterns"
+  - "Hybrid RAG systems with graph + vector retrieval"
+
+open_to:
+  - "AI / ML Engineering positions"
+  - "Full-Stack Development roles"
+  - "Research collaborations in NLP and Agentic AI"
+```
+
+---
+
+### 📈 Summary
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=github_dark" />
+
+---
+
 ### 📊 GitHub Analytics
 
 <img src="https://streak-stats.demolab.com?user=the-asadullah20&theme=dark&hide_border=true" alt="GitHub Streak" />

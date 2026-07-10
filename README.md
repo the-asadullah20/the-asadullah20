@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF6A00,100:000000&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=FFB380" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:38BDF8,100:FFFFFF&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=000000&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=1E3A5F" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist+%F0%9F%8F%85;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
 </p>
 
 <table>
@@ -56,10 +56,10 @@ Web ................ React, Next.js, Spring Boot, FastAPI, Flask
 AI/ML .............. LangChain, LangGraph, RAG, LLMs, NLP
 DevOps ............. Docker, Kubernetes, GitHub Actions
 Databases .......... SQL, MongoDB, Supabase, Firebase, Neo4j
-Currently .......... Building agentic AI systems 🤖
+Currently .......... Building agentic AI systems
 
 -------------------------------------
-Achievement ........ ICPC 2026 Silver Medalist 🏅
+Achievement ........ ICPC 2026 Silver Medalist
 Competitive Prog ... LeetCode 650+ solved
 Experience ......... AI/ML Intern @ NetSol Technologies
                      Teaching Assistant @ PUCIT
@@ -75,7 +75,7 @@ Location ........... Lahore, Pakistan
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -91,15 +91,16 @@ Location ........... Lahore, Pakistan
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,neo4j)
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase)
+![Neo4j](https://img.shields.io/badge/-Neo4j-38BDF8?style=flat-square&logo=neo4j&logoColor=white)
 
 **AI / ML**
 
 ![AI/ML](https://skillicons.dev/icons?i=python,pytorch)
-![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-1C3C3C?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-4CAF50?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-orange?style=flat-square)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/-LLM%20Integration-38BDF8?style=flat-square&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-38BDF8?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG-38BDF8?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-38BDF8?style=flat-square&logo=langchain&logoColor=white)
 
 **Tools**
 
@@ -107,7 +108,7 @@ Location ........... Lahore, Pakistan
 
 ---
 
-### 💼 Expertise
+### Expertise
 
 | Domain | Level | Details |
 |---|---|---|
@@ -120,7 +121,7 @@ Location ........... Lahore, Pakistan
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <details open>
 <summary><b>Lumio</b> — AI-powered learning platform</summary>
@@ -164,7 +165,7 @@ Browser-based ISA simulator with custom IDE, assembler, instruction execution en
 
 ---
 
-### 🌱 Currently
+### Currently
 
 ```yaml
 building:
@@ -184,35 +185,35 @@ open_to:
 
 ---
 
-### 📈 Summary
+### Summary
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=graywhite" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=graywhite" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=graywhite" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=graywhite" />
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=0D0D0D&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFB380" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=FFFFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=1E3A5F&currStreakNum=1E3A5F&sideNums=1E3A5F&dates=38BDF8" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&hide_border=true&bg_color=0D0D0D&color=FF8C00&line=FF8C00&point=FFFFFF&area=true&area_color=FF8C00" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&hide_border=true&bg_color=FFFFFF&color=00BFFF&line=00BFFF&point=1E3A5F&area=true&area_color=38BDF8" alt="Activity Graph" width="100%"/>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&icon_color=FF8C00&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=FF8C00&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0080FF&icon_color=00BFFF&text_color=1E3A5F" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=FFFFFF&title_color=0080FF&text_color=1E3A5F" width="48%" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadullah-ahmad5)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/the-asadullah20)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adenosinetriphosphate)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:asadullahhmad5@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-38BDF8?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adenosinetriphosphate)
+[![Gmail](https://img.shields.io/badge/-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white)](mailto:asadullahhmad5@gmail.com)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FF6A00,100:000000&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:38BDF8,100:FFFFFF&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>

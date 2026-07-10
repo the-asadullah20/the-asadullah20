@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-asadullah20&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+</p>
+
 <table>
 <tr>
 <td width="45%" valign="top">
@@ -104,7 +108,10 @@ Location ........... Lahore, Pakistan
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,jira,docker,kubernetes)
+![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,visualstudio,idea)
+![Jira](https://img.shields.io/badge/-Jira-0D1B2A?style=flat-square&logo=jira&logoColor=0052CC)
+![Docker](https://img.shields.io/badge/-Docker-0D1B2A?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1B2A?style=flat-square&logo=kubernetes&logoColor=38BDF8)
 
 ---
 

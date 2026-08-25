@@ -3,52 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&background=0D111700&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=CB88A8&background=0D111700&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-asadullah20&label=Profile%20Views&color=38BDF8&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=the-asadullah20&label=Profile%20Views&color=CB88A8&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
 
 <br>
 
-<table>
-<tr>
-<td width="45%" valign="top">
-
-<pre style="background-color:#0D1117; color:#F5F7FA; padding:14px; border-radius:10px; border:1px solid #38BDF8; font-size:9px; line-height:9px; overflow-x:auto;">
-⢕⠱⡑⣑⡵⣿⡿⣟⣿⢯⡟⣧⢅⢅⠥⡑⢅⠕⡡⡑⡅⢇⢕⠱⡑⢕⢍⠭⡱⡑⡕⢕⢱⠱⡱⡱⢍⡫⣸⣜⡽⣝⣟⣮⡣⣫⣿⢯⠿⣹
-⢅⢣⠱⡘⡼⡿⡯⣷⣻⠣⠹⡌⢕⢐⠅⡪⡐⡑⡌⡢⡑⠕⠘⢈⠘⡈⡂⡣⣱⡘⡌⡪⡘⢜⢜⢜⠬⡢⣳⣻⣎⢧⠁⣴⣇⠷⡝⣕⣽⢽
-⠥⡣⡕⡅⠧⢝⣟⢷⢽⠸⡨⡢⠱⡰⠱⡒⠬⡢⡣⠪⢈⠄⠁⠠⠈⠄⣑⢡⢇⢏⠌⠐⠘⢜⢜⢎⠯⡮⣞⢮⠷⣋⣻⣽⡞⣌⠎⣗⡯⢳
-⠱⡐⡅⢇⢍⢎⢺⢽⢽⡱⡐⢌⠪⡐⢅⠣⡑⡑⢜⢨⢢⢢⢌⠠⠢⡷⣮⢾⣼⡴⣵⢅⢆⢈⠆⡇⢧⢹⠹⣡⣳⡹⢶⡽⣟⡜⡗⡨⢎⢺
-⡑⢌⠪⡘⡔⠬⡸⣝⢮⢇⡊⡢⢑⠌⡢⡑⢅⠕⢅⠫⣎⢇⣵⣼⢺⠪⢎⢟⣼⣽⣻⢮⣾⢾⢱⠸⡘⡌⢞⢧⢳⡻⣷⡽⠦⣹⣞⠨⡢⡓
-⠌⠢⡑⡑⢜⠌⡆⡺⡽⣝⡆⡪⢂⠕⡰⠨⠢⡑⡅⡅⢷⠹⣯⢯⣧⠣⡱⡽⡮⡢⡑⢽⠿⡻⡰⣑⢕⢜⢼⢸⡳⡿⡮⣝⢧⢳⡽⡌⡆⢕
-⠌⠌⡂⡊⡢⡑⡱⡘⣽⢮⢗⢜⢐⡑⢌⢪⠡⡱⢨⠢⠁⠄⠨⢩⠊⠄⡐⡨⢄⢂⢐⠡⠣⡪⡊⡆⡎⡮⡪⡳⡹⡱⡽⣾⣳⡳⡽⡕⡜⡺
-⠅⠕⡨⢊⠢⡑⢕⢸⢸⢯⡻⡜⢌⠪⡑⢕⢑⢕⢑⠕⡁⠠⢡⣣⡑⠓⡊⡊⡬⡒⠄⡪⡘⡜⡜⡜⢜⢜⣕⢕⢵⣝⡯⣎⢆⡵⣝⡪⠪⣪
-⠌⡂⡂⡢⢑⢌⢊⠆⡕⢯⢯⢯⢆⠕⢌⢢⢑⠔⢅⢣⠱⡡⡑⢌⢂⢣⠕⡌⢌⠢⡑⡌⡎⢜⢸⢸⡵⣳⢳⢻⣽⡺⡇⡟⣝⢽⡪⡯⡢⣳
-⢂⢂⠢⠨⢂⠢⡑⡕⢜⠸⣏⡯⣇⢪⠨⡢⡑⢌⠪⡂⡣⡱⡨⠳⣖⣦⣷⡼⡾⢘⠔⣱⢘⠜⢜⢌⠞⣗⡽⣸⢜⢮⣫⢟⡵⣟⠼⡚⡼⡵
-⡐⠄⠅⢅⠅⡅⢕⢜⢸⢨⢳⣟⢞⡔⡱⡐⠜⢌⠪⠘⠌⣶⠋⠌⢆⢪⢢⠪⠢⡑⡱⣸⣷⡵⣕⣌⡪⡸⢉⣴⡫⡞⡮⣛⢞⡎⣖⡯⡚⣮
-⠄⡅⢅⢅⠢⢪⠰⡨⡪⡸⡸⣺⡽⡪⠂⢊⠈⠄⢂⠅⡂⢮⣄⡱⣱⡑⡔⢅⣣⣵⡾⣷⣿⣿⣻⣷⢯⣶⣝⢗⢝⢽⣝⢾⢝⡱⣵⠫⡳⡌
-⠅⡂⢅⠢⠡⡑⢌⠢⡃⡇⢇⢋⢈⢀⢈⠄⡂⣎⣞⠠⠀⠂⡙⢻⢷⣿⣿⣿⢿⣷⣿⣿⣿⣽⡿⣿⣿⡾⣾⣫⡷⣅⢄⡣⡾⣹⢅⡏⡞⡻
-⠅⡢⠡⡨⠨⢂⠅⢕⢸⠸⡨⢪⣲⣵⣷⢿⣲⣗⡇⠢⡑⡕⡌⡦⣅⡫⣻⣾⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣯⣿⣽⣯⣷⣗⡮⡓⠣⡯⡲⢸
-⢅⠢⡑⡐⠅⠕⢌⢊⠆⡇⡣⠸⣞⣷⣿⣿⣾⡺⢰⢑⢌⢎⢎⢎⢎⢯⣭⣿⣿⣿⣿⣿⣟⣿⡿⣾⣿⣿⣷⣿⣿⣿⣿⣗⡷⠍⡼⡣⢹⢄
-⠢⡑⢔⠡⡑⢕⢡⠡⡣⡣⢸⣸⣯⣿⣿⣿⣗⡧⡏⡆⡇⣗⡝⣔⣵⣿⣷⣿⡿⣿⣿⣿⣽⡿⣿⣻⣟⣿⣿⣿⣿⣿⣿⣳⢯⣺⣝⠄⡿⡸
-⣓⢜⡢⡣⡣⡣⣣⢧⡳⡕⡵⣫⣿⣿⣿⣿⡾⣺⡯⣺⣹⢾⣢⣿⣟⣽⣿⡟⢼⣿⣿⣾⣟⣿⢿⣿⣻⣿⣿⣿⣿⣿⣗⣿⢯⣗⢗⠌⡺⡼
-⣷⢱⢱⢣⢣⢹⢱⢳⢝⢔⡿⣕⢽⣿⣿⣿⣏⣿⡣⣷⣿⣿⣾⣟⣼⣟⣘⡼⣹⣿⢿⣾⣻⣟⣿⣻⣿⣽⣿⣿⣿⢷⣯⣿⢯⣞⡽⡈⢮⡇
-⣗⢽⢕⡝⣝⢜⢮⢮⢳⢑⢝⢼⢚⣿⣿⣿⣾⣟⣾⣿⣿⣿⡟⣾⣿⡧⣳⡫⣿⡏⡺⣽⣯⡿⣯⣿⢿⡾⣿⣿⣿⣻⡾⣿⣻⡺⣜⠎⣸⠇
-⣎⢮⢷⢝⣜⢮⣪⣫⢇⢇⠮⡺⡕⣿⣿⣿⣿⣣⣿⣿⣿⣟⣾⣿⣿⠍⡋⣾⡿⢁⢪⣳⣿⣻⣯⣿⢿⣻⣿⣿⣯⣿⣻⣿⢿⣝⢮⡃⢝⡅
-⣾⢻⢽⢽⣺⣵⣳⢽⢢⣥⣧⣧⣙⢾⣿⣿⡿⣾⣿⣿⣟⣾⣿⢟⢝⢬⣺⣿⢃⢢⣳⣿⣽⡿⣾⣻⣿⢿⣿⣿⣿⣾⣿⢿⣻⢾⣹⡆⢽⢂
-⢆⢟⢽⢯⣗⣗⡯⣏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣾⣟⢵⢑⢕⢝⣽⠇⢢⣾⣻⣾⡿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⢽⣺⡎⢼⠨
-⣗⠮⡯⣻⢺⢪⡺⡝⣋⣵⠗⠧⠳⠹⠿⣿⣿⢿⢯⢟⠫⢨⢢⢳⣝⡼⣊⣴⡿⣯⣿⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⣷⡳⡘⡬
-⡳⡭⡻⡜⢁⡳⢕⢯⣻⡁⠪⡈⡐⠠⡱⠘⠁⢄⠠⡀⠠⢘⠟⣩⣴⣾⣾⢿⣻⣿⣿⣿⣷⣿⣿⣿⣿⢿⣟⡿⣿⣻⣯⣿⢯⣟⣯⡷⡸⢘
-⠈⡒⡸⠌⢂⠮⣚⣪⡽⡣⡂⣖⢶⣁⠅⠌⠂⠄⡓⢕⢩⠠⠋⡋⡉⠍⠚⠛⠙⠉⠨⣉⢉⢡⢡⣹⢾⣿⣻⢿⣿⣽⣻⣞⣯⣗⠗⣽⢘⢨
-⢑⢬⡨⢌⡔⡳⢌⢾⢵⣫⢋⢗⢳⣻⣯⣌⠊⡔⣍⢪⢢⡱⠕⠊⢀⠠⡀⡂⡢⢱⡑⠕⢫⡿⣽⣯⢿⣯⣟⣯⢷⣻⢽⢵⡷⣝⣇⢳⡱⡘
-</pre>
-
-</td>
-<td width="55%" valign="top">
-
-<pre style="background-color:#0D1117; color:#38BDF8; padding:14px; border-radius:10px; border:1px solid #38BDF8;">
+<p align="center">
+<pre style="background-color:#0D1117; color:#CB88A8; padding:16px 24px; border-radius:10px; border:1px solid #CB88A8; display:inline-block; text-align:left;">
 <span style="color:#F5F7FA;">asadullah@github</span>
 -------------------------------------
 <span style="color:#F5F7FA;">OS ................ Windows 11 / Linux
@@ -75,10 +40,7 @@ Experience ......... AI/ML Intern @ NetSol Technologies
 Email .............. asadullahhmad5@gmail.com
 Location ........... Lahore, Pakistan</span>
 </pre>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
@@ -201,16 +163,12 @@ open_to:
 ### GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=0D1117&stroke=CB88A8&ring=CB88A8&fire=CB88A8&currStreakLabel=CB88A8&sideLabels=C9D1D9&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F5F7FA&area=true&area_color=1E3A5F" alt="Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=38BDF8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=CB88A8&icon_color=CB88A8&text_color=C9D1D9&border_color=CB88A8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=0D1117&title_color=CB88A8&text_color=C9D1D9&border_color=CB88A8" width="48%" />
 </p>
 
 ---
@@ -218,10 +176,10 @@ open_to:
 ### Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/asadullah-ahmad5"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://github.com/the-asadullah20"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
-<a href="https://leetcode.com/adenosinetriphosphate"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" /></a>
-<a href="mailto:asadullahhmad5@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://linkedin.com/in/asadullah-ahmad5"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=CB88A8" /></a>
+<a href="https://github.com/the-asadullah20"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=CB88A8" /></a>
+<a href="https://leetcode.com/adenosinetriphosphate"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=CB88A8" /></a>
+<a href="mailto:asadullahhmad5@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=CB88A8" /></a>
 </p>
 
 <p align="center">

@@ -12,36 +12,6 @@
 
 <br>
 
-<p align="center">
-<pre style="background-color:#0D1117; color:#CB88A8; padding:16px 24px; border-radius:10px; border:1px solid #CB88A8; display:inline-block; text-align:left;">
-<span style="color:#F5F7FA;">asadullah@github</span>
--------------------------------------
-<span style="color:#F5F7FA;">OS ................ Windows 11 / Linux
-Degree ............ BS Computer Science
-University ........ PUCIT, Lahore
-CGPA ............... 3.68
-Role ............... AI/ML Engineer, Full-Stack Dev
-
-Languages.Code ..... C, C++, Java, Python, JS, Kotlin
-Languages.Human .... English, Urdu
-Web ................ React, Next.js, Spring Boot, FastAPI, Flask
-AI/ML .............. LangChain, LangGraph, RAG, LLMs, NLP
-DevOps ............. Docker, Kubernetes, GitHub Actions
-Databases .......... SQL, MongoDB, Supabase, Firebase, Neo4j
-Currently .......... Building agentic AI systems
-
--------------------------------------
-Achievement ........ ICPC 2026 Silver Medalist
-Competitive Prog ... LeetCode 650+ solved
-Experience ......... AI/ML Intern @ NetSol Technologies
-                     Teaching Assistant @ PUCIT
-
--------------------------------------
-Email .............. asadullahhmad5@gmail.com
-Location ........... Lahore, Pakistan</span>
-</pre>
-</p>
-
 ---
 
 ### Tech Stack

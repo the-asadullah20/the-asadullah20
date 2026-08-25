@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:0D1117&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=38BDF8&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A968,50:CB88A8,100:B571C4&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=FFFFFF" width="100%"/>
 </p>
 
 <p align="center">
@@ -225,5 +225,5 @@ open_to:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A968,50:CB88A8,100:B571C4&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>

@@ -1,20 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:38BDF8,100:FFFFFF&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=000000&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=1E3A5F" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:0D1117&height=200&section=header&text=Asadullah%20Ahmad&fontSize=45&fontColor=38BDF8&animation=twinkling&fontAlignY=35&desc=ICPC%202026%20Silver%20Medalist%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18&descColor=C9D1D9" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&background=0D111700&center=true&vCenter=true&width=650&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing-svg" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-asadullah20&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=the-asadullah20&label=Profile%20Views&color=38BDF8&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
 </p>
+
+<br>
 
 <table>
 <tr>
 <td width="45%" valign="top">
 
-<pre>
+<pre style="background-color:#0D1117; color:#F5F7FA; padding:14px; border-radius:10px; border:1px solid #38BDF8; font-size:9px; line-height:9px; overflow-x:auto;">
 ⢕⠱⡑⣑⡵⣿⡿⣟⣿⢯⡟⣧⢅⢅⠥⡑⢅⠕⡡⡑⡅⢇⢕⠱⡑⢕⢍⠭⡱⡑⡕⢕⢱⠱⡱⡱⢍⡫⣸⣜⡽⣝⣟⣮⡣⣫⣿⢯⠿⣹
 ⢅⢣⠱⡘⡼⡿⡯⣷⣻⠣⠹⡌⢕⢐⠅⡪⡐⡑⡌⡢⡑⠕⠘⢈⠘⡈⡂⡣⣱⡘⡌⡪⡘⢜⢜⢜⠬⡢⣳⣻⣎⢧⠁⣴⣇⠷⡝⣕⣽⢽
 ⠥⡣⡕⡅⠧⢝⣟⢷⢽⠸⡨⡢⠱⡰⠱⡒⠬⡢⡣⠪⢈⠄⠁⠠⠈⠄⣑⢡⢇⢏⠌⠐⠘⢜⢜⢎⠯⡮⣞⢮⠷⣋⣻⣽⡞⣌⠎⣗⡯⢳
@@ -46,10 +48,10 @@
 </td>
 <td width="55%" valign="top">
 
-<pre>
-asadullah@github
+<pre style="background-color:#0D1117; color:#38BDF8; padding:14px; border-radius:10px; border:1px solid #38BDF8;">
+<span style="color:#F5F7FA;">asadullah@github</span>
 -------------------------------------
-OS ................ Windows 11 / Linux
+<span style="color:#F5F7FA;">OS ................ Windows 11 / Linux
 Degree ............ BS Computer Science
 University ........ PUCIT, Lahore
 CGPA ............... 3.68
@@ -71,7 +73,7 @@ Experience ......... AI/ML Intern @ NetSol Technologies
 
 -------------------------------------
 Email .............. asadullahhmad5@gmail.com
-Location ........... Lahore, Pakistan
+Location ........... Lahore, Pakistan</span>
 </pre>
 
 </td>
@@ -84,27 +86,27 @@ Location ........... Lahore, Pakistan
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,html,css)
+![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,html,css&theme=dark)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,figma)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,figma&theme=dark)
 
 **Backend & APIs**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,spring&theme=dark)
 
 **Databases**
 
-![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase)
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase&theme=dark)
 
 **AI / ML**
 
-![AI/ML](https://skillicons.dev/icons?i=python,pytorch)
+![AI/ML](https://skillicons.dev/icons?i=python,pytorch&theme=dark)
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,visualstudio,idea)
+![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,gcp,visualstudio,idea&theme=dark)
 
 ---
 
@@ -187,33 +189,41 @@ open_to:
 
 ### Summary
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=graywhite" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=graywhite" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=graywhite" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=graywhite" />
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=github_dark" />
+</p>
 
 ---
 
 ### GitHub Analytics
 
-<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=FFFFFF&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=1E3A5F&currStreakNum=1E3A5F&sideNums=1E3A5F&dates=38BDF8" alt="GitHub Streak" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8B949E" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&hide_border=true&bg_color=FFFFFF&color=00BFFF&line=00BFFF&point=1E3A5F&area=true&area_color=38BDF8" alt="Activity Graph" width="100%"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=F5F7FA&area=true&area_color=1E3A5F" alt="Activity Graph" width="100%"/>
+</p>
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0080FF&icon_color=00BFFF&text_color=1E3A5F" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=FFFFFF&title_color=0080FF&text_color=1E3A5F" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-asadullah20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_color=38BDF8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-asadullah20&layout=donut&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_color=38BDF8" width="48%" />
 </p>
 
 ---
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadullah-ahmad5)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/the-asadullah20)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-38BDF8?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/adenosinetriphosphate)
-[![Gmail](https://img.shields.io/badge/-Email-38BDF8?style=flat-square&logo=gmail&logoColor=white)](mailto:asadullahhmad5@gmail.com)
+<p align="center">
+<a href="https://linkedin.com/in/asadullah-ahmad5"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://github.com/the-asadullah20"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
+<a href="https://leetcode.com/adenosinetriphosphate"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=38BDF8" /></a>
+<a href="mailto:asadullahhmad5@gmail.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:38BDF8,100:FFFFFF&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>

@@ -132,8 +132,8 @@ backed by a strong foundation in data structures, algorithms and system design.
       <br><br>
       • RAG with FAISS vector search<br>
       • Face ID authentication<br>
-      • Streaming chat with speech-to-text and text-to-speech<br>
-      • Gemini 2.5 Flash with Groq Llama fallback
+      • Streaming chat with voice input and output<br>
+      • Gemini 2.5 Flash, Groq Llama fallback
       <br><br>
       <a href="https://github.com/the-asadullah20/BaatKaro"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
       <a href="https://baatkaro-frontend-475012365869.us-central1.run.app/"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo"></a>
@@ -221,28 +221,29 @@ backed by a strong foundation in data structures, algorithms and system design.
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=github_dark" width="100%" alt="Stats"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=dracula" width="100%" alt="Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=github_dark" width="100%" alt="Profile Details"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-asadullah20&theme=dracula&utcOffset=5" width="100%" alt="Productive Time"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=github_dark" width="100%" alt="Repos per Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-asadullah20&theme=dracula" width="100%" alt="Top Languages by Repo"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=github_dark" width="100%" alt="Most Commit Language"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-asadullah20&theme=dracula" width="100%" alt="Top Languages by Commit"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=282A36&stroke=44475A&ring=CB88A8&fire=E8A968&currStreakLabel=CB88A8&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=BD93F9" width="50%" alt="Contribution Streak"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=the-asadullah20&hide_border=true&background=0D1117&stroke=30363D&ring=CB88A8&fire=E8A968&currStreakLabel=CB88A8&sideLabels=C9D1D9&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=8B949E" alt="Contribution Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&bg_color=0D1117&color=CB88A8&line=B571C4&point=E8A968&area=true&area_color=B571C4&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-asadullah20&bg_color=282A36&color=CB88A8&line=BD93F9&point=E8A968&area=true&area_color=BD93F9&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph"/>
 </p>
 
 ---

@@ -224,8 +224,7 @@ backed by a strong foundation in data structures, algorithms and system design.
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-asadullah20&theme=dracula" width="100%" alt="Stats"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-asadullah20&theme=dracula&utcOffset=5" width="100%" alt="Productive Time"/>
-    </td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=dracula" width="100%" alt="Profile Details"/>
   </tr>
   <tr>
     <td width="50%" align="center">

@@ -75,7 +75,7 @@ backed by a strong foundation in data structures, algorithms and system design.
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,neo4j,mysql,sqlite,supabase,firebase&perline=6" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase,firebase&perline=5" alt="Databases"/>
 </p>
 
 <h3 align="center">AI / ML & Generative AI</h3>
@@ -144,15 +144,15 @@ backed by a strong foundation in data structures, algorithms and system design.
       <h3>Pixora</h3>
       <sub><b>Image-to-search multimodal RAG platform</b></sub>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,vercel&perline=4" alt="Pixora stack"/>
+      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,vercel,python&perline=4" alt="Pixora stack"/>
       <br>
       <img src="https://img.shields.io/badge/Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini Vision">
       <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
       <img src="https://img.shields.io/badge/Tavily-1C3C3C?style=flat-square" alt="Tavily">
       <br><br>
-      • Image understanding with Google Gemini Vision<br>
+      • Image understanding with Gemini Vision<br>
       • Vector search powered by Pinecone<br>
-      • Real-time web-augmented streaming answers via Tavily<br>
+      • Web-augmented streaming answers via Tavily<br>
       • FastAPI backend with Next.js frontend
       <br><br>
       <a href="https://github.com/the-asadullah20/Pixora"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
@@ -169,8 +169,8 @@ backed by a strong foundation in data structures, algorithms and system design.
       <img src="https://img.shields.io/badge/Modal-000000?style=flat-square" alt="Modal">
       <br><br>
       • Fine-tuned YOLOX-S detection model<br>
-      • PyTorch weights converted to ONNX for fast CPU-only inference (under 50ms per page)<br>
-      • Containerized into a compact ~200MB Docker image<br>
+      • ONNX CPU inference, under 50ms per page<br>
+      • Compact ~200MB Docker image<br>
       • CI workflows with GitHub Actions
       <br><br>
       <a href="https://github.com/the-asadullah20/Signature-Detector-YOLOX-S"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>

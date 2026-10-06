@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:3B1D5A,100:B571C4&height=240&section=header&text=Asadullah%20Ahmad&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ICPC%202026%20Silver%20Medalist&descAlignY=62&descSize=18&descColor=E8A968" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B1D5A,100:B571C4&height=220&section=header&text=Asadullah%20Ahmad&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ICPC%202026%20Silver%20Medalist&descAlignY=58&descSize=18&descColor=E8A968" width="100%" alt="Asadullah Ahmad"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=CB88A8&center=true&vCenter=true&width=700&height=45&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing"/>
 
@@ -89,12 +89,14 @@ backed by a strong foundation in data structures, algorithms and system design.
   <br>
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini">
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX">
   <img src="https://img.shields.io/badge/NLP-E8A968?style=for-the-badge&logoColor=black" alt="NLP">
 </p>
 
 <h3 align="center">DevOps, Cloud & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,gcp,git,github,vscode,idea&perline=6" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,githubactions,vercel,git,github,vscode,idea&perline=8" alt="Tools"/>
 </p>
 
 ---
@@ -137,34 +139,38 @@ backed by a strong foundation in data structures, algorithms and system design.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Hybrid RAG System</h3>
-      <sub><b>Graph and vector retrieval pipeline</b></sub>
+      <h3>Pixora</h3>
+      <sub><b>Image-to-search multimodal RAG platform</b></sub>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=neo4j,python&perline=4" alt="RAG stack"/>
+      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,vercel&perline=4" alt="Pixora stack"/>
       <br>
-      <img src="https://img.shields.io/badge/Vector_Search-B571C4?style=flat-square" alt="Vector Search">
-      <img src="https://img.shields.io/badge/LLM-E8A968?style=flat-square&logoColor=black" alt="LLM">
+      <img src="https://img.shields.io/badge/Gemini_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini Vision">
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone">
+      <img src="https://img.shields.io/badge/Tavily-1C3C3C?style=flat-square" alt="Tavily">
       <br><br>
-      • Neo4j knowledge graph combined with dense vector search<br>
-      • Cross-encoder reranking<br>
-      • Context-aware LLM response generation
+      • Image understanding with Google Gemini Vision<br>
+      • Vector search powered by Pinecone<br>
+      • Real-time web-augmented streaming answers via Tavily<br>
+      • FastAPI backend with Next.js frontend
       <br><br>
-      <a href="https://github.com/the-asadullah20?tab=repositories&q=rag"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/the-asadullah20/Pixora"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://pixorabunny.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Crime Management System</h3>
-      <sub><b>Secure desktop app with computer vision</b></sub>
+      <h3>Signature Detector</h3>
+      <sub><b>Production-ready signature detection API</b></sub>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=python,opencv,sqlite&perline=4" alt="Crime stack"/>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,docker,githubactions&perline=4" alt="Signature Detector stack"/>
       <br>
-      <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter">
+      <img src="https://img.shields.io/badge/YOLOX--S-B571C4?style=flat-square" alt="YOLOX-S">
+      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
       <br><br>
-      • OpenCV facial recognition<br>
-      • Role-based authentication<br>
-      • Evidence management with SQLite<br>
-      • Tkinter GUI
+      • Fine-tuned YOLOX-S detection model<br>
+      • PyTorch weights converted to ONNX for fast CPU-only inference (under 50ms per page)<br>
+      • Containerized into a compact ~200MB Docker image<br>
+      • CI workflows with GitHub Actions
       <br><br>
-      <a href="https://github.com/the-asadullah20?tab=repositories&q=crime"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/the-asadullah20/Signature-Detector-YOLOX-S"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
     </td>
   </tr>
 </table>
@@ -188,7 +194,7 @@ backed by a strong foundation in data structures, algorithms and system design.
   </tr>
   <tr>
     <td width="220" valign="top"><b>LeetCode</b></td>
-    <td>650+ problems solved</td>
+    <td>700+ problems solved</td>
   </tr>
 </table>
 
@@ -199,7 +205,7 @@ backed by a strong foundation in data structures, algorithms and system design.
 <div align="center">
 
 <img src="https://img.shields.io/badge/ICPC_2026-Silver_Medal-C0C0C0?style=for-the-badge&logoColor=black" alt="ICPC 2026 Silver">
-<a href="https://leetcode.com/adenosinetriphosphate"><img src="https://img.shields.io/badge/LeetCode-650%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 650+"></a>
+<a href="https://leetcode.com/adenosinetriphosphate"><img src="https://img.shields.io/badge/LeetCode-700%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 700+"></a>
 <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-B571C4?style=for-the-badge" alt="DSA">
 
 </div>

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B1D5A,100:B571C4&height=220&section=header&text=Asadullah%20Ahmad&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ICPC%202026%20Silver%20Medalist&descAlignY=58&descSize=18&descColor=E8A968" width="100%" alt="Asadullah Ahmad"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=CB88A8&center=true&vCenter=true&width=700&height=45&lines=Building+agentic+AI+systems;LangChain+%7C+LangGraph+%7C+RAG+%7C+LLMs;ICPC+2026+Silver+Medalist;Full-Stack+%7C+Next.js+%7C+FastAPI" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=CB88A8&center=true&vCenter=true&width=800&height=45&lines=Shipping+Production+AI+Applications;RAG+Pipelines+%26+Agentic+Workflows;Computer+Vision+Models+in+Production;700%2B+LeetCode+Problems+Solved;ICPC+2026+Silver+Medalist" alt="typing"/>
 
 <br>
 
@@ -118,7 +118,8 @@ backed by a strong foundation in data structures, algorithms and system design.
       • Real-time leaderboards<br>
       • Analytics dashboards
       <br><br>
-      <a href="https://github.com/the-asadullah20?tab=repositories&q=lumio"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/the-asadullah20/lumio-platform"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://lumio-platform-roan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
     </td>
     <td width="50%" valign="top">
       <h3>BaatKaro</h3>
@@ -134,7 +135,8 @@ backed by a strong foundation in data structures, algorithms and system design.
       • Streaming chat with speech-to-text and text-to-speech<br>
       • Gemini 2.5 Flash with Groq Llama fallback
       <br><br>
-      <a href="https://github.com/the-asadullah20?tab=repositories&q=baatkaro"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://github.com/the-asadullah20/BaatKaro"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://baatkaro-frontend-475012365869.us-central1.run.app/"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo"></a>
     </td>
   </tr>
   <tr>
@@ -164,6 +166,7 @@ backed by a strong foundation in data structures, algorithms and system design.
       <br>
       <img src="https://img.shields.io/badge/YOLOX--S-B571C4?style=flat-square" alt="YOLOX-S">
       <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+      <img src="https://img.shields.io/badge/Modal-000000?style=flat-square" alt="Modal">
       <br><br>
       • Fine-tuned YOLOX-S detection model<br>
       • PyTorch weights converted to ONNX for fast CPU-only inference (under 50ms per page)<br>
@@ -171,6 +174,7 @@ backed by a strong foundation in data structures, algorithms and system design.
       • CI workflows with GitHub Actions
       <br><br>
       <a href="https://github.com/the-asadullah20/Signature-Detector-YOLOX-S"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://asadullahhmad5--signature-detector-fastapi-app.modal.run/docs"><img src="https://img.shields.io/badge/Live_API-B571C4?style=for-the-badge&logo=fastapi&logoColor=white" alt="Live API"></a>
     </td>
   </tr>
 </table>

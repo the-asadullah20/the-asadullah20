@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B1D5A,100:B571C4&height=220&section=header&text=Asadullah%20Ahmad&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ICPC%202026%20Silver%20Medalist&descAlignY=58&descSize=18&descColor=E8A968" width="100%" alt="Asadullah Ahmad"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=CB88A8&center=true&vCenter=true&width=800&height=45&lines=Shipping+Production+AI+Applications;RAG+Pipelines+%26+Agentic+Workflows;Computer+Vision+Models+in+Production;700%2B+LeetCode+Problems+Solved;ICPC+2026+Silver+Medalist" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=CB88A8&center=true&vCenter=true&width=800&height=50&lines=Shipping+Production+AI+Applications;RAG+Pipelines+%26+Agentic+Workflows;Computer+Vision+Models+in+Production;700%2B+LeetCode+Problems+Solved;ICPC+2026+Silver+Medalist" alt="typing"/>
 
 <br>
 

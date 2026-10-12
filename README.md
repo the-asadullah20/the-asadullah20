@@ -121,22 +121,24 @@ backed by a strong foundation in data structures, algorithms and system design.
       <a href="https://github.com/the-asadullah20/lumio-platform"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
       <a href="https://lumio-platform-roan.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
     </td>
-    <td width="50%" valign="top">
-      <h3>BaatKaro</h3>
-      <sub><b>Production-grade multimodal AI assistant</b></sub>
+       <td width="50%" valign="top">
+      <h3>Yapr</h3>
+      <sub><b>Social platform with user-controlled feed algorithms</b></sub>
       <br><br>
-      <img src="https://skillicons.dev/icons?i=nextjs,fastapi,docker,gcp&perline=4" alt="BaatKaro stack"/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,supabase,redis&perline=5" alt="Yapr stack"/>
       <br>
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" alt="FAISS">
+      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
+      <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq">
+      <img src="https://img.shields.io/badge/AMQP-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="AMQP">
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" alt="WebSockets">
       <br><br>
-      • RAG with FAISS vector search<br>
-      • Face ID authentication<br>
-      • Streaming chat with voice input and output<br>
-      • Gemini 2.5 Flash, Groq Llama fallback
+      • No black-box feeds: user-controlled algorithm sliders<br>
+      • AI thread summarization and instant post translation<br>
+      • Flexible account privacy and deep conversational threads<br>
+      • Real-time updates via WebSockets, AMQP queues and Redis
       <br><br>
-      <a href="https://github.com/the-asadullah20/BaatKaro"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
-      <a href="https://baatkaro-frontend-475012365869.us-central1.run.app/"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Live Demo"></a>
+      <a href="https://github.com/the-asadullah20/Yapr"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+      <a href="https://theyapr.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-B571C4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"></a>
     </td>
   </tr>
   <tr>

@@ -227,6 +227,7 @@ backed by a strong foundation in data structures, algorithms and system design.
     </td>
     <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-asadullah20&theme=dracula" width="100%" alt="Profile Details"/>
+    </td>
   </tr>
   <tr>
     <td width="50%" align="center">
@@ -256,6 +257,14 @@ backed by a strong foundation in data structures, algorithms and system design.
   <a href="https://linkedin.com/in/asadullah-ahmad5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/the-asadullah20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leetcode.com/adenosinetriphosphate"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+</p>
+
+---
+
+<h2 align="center">GitHub Activity Graph</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-asadullah20/the-asadullah20/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph of Asadullah Ahmad"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B1D5A,100:B571C4&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>

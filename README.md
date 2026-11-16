@@ -261,10 +261,10 @@ backed by a strong foundation in data structures, algorithms and system design.
 
 ---
 
-<h2 align="center">GitHub Activity Graph</h2>
+<h2 align="center">Contribution Landscape</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-asadullah20/the-asadullah20/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph of Asadullah Ahmad"/>
+  <img src="https://raw.githubusercontent.com/the-asadullah20/the-asadullah20/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph of Asadullah Ahmad"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:3B1D5A,100:B571C4&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
